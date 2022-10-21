@@ -18,4 +18,5 @@
     <string name="div">/</string>
     <string name="mul">*</string>
     <string name="lim"><![CDATA[<]]></string>
+    <string name="br1"><![CDATA[<]]></string>
 </resources>
